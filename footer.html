@@ -22,7 +22,7 @@
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-12">
-                                Copyright &copy; James Bach <script>document.write(new Date().getFullYear())</script>
+                                Copyright &copy; James Bach <div id="year"></div>
                             </div>
                         </div>
                     </div>
@@ -34,3 +34,6 @@
                     <i class="fa fa-chevron-up"></i>
                 </a>
             </div>
+        <script>
+            $('#year').html(new Date().getFullYear())
+        </script>
