@@ -407,7 +407,12 @@ footer .footer-below {
 .scroll-top .btn:focus {
     outline: 0;
 }
-
+.project-border
+{
+    border: solid;
+    border-width: 1px;
+    border-color: #EEEEEE;
+}
 .portfolio-modal .modal-content {
     padding: 100px 0;
     min-height: 100%;
@@ -430,6 +435,7 @@ footer .footer-below {
 
 .portfolio-modal .modal-content .item-details {
     margin: 30px 0;
+    font-size: 1.2em;
 }
 
 .portfolio-modal .close-modal {
