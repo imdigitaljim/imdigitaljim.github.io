@@ -4,6 +4,10 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
+
+.modal-text{
+    text-align: justify;
+}
 .next-section{
     padding-top: 5em;
 }
