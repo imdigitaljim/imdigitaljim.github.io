@@ -409,9 +409,7 @@ footer .footer-below {
 }
 .project-border
 {
-    border: solid;
-    border-width: 1px;
-    border-color: #EEEEEE;
+    background-color: #EEEEEE;
 }
 .portfolio-modal .modal-content {
     padding: 100px 0;
