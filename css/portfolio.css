@@ -4,7 +4,9 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
-
+.git-icon{
+    cursor: pointer;
+}
 .modal-text{
     text-align: justify;
 }
