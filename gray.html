@@ -48,15 +48,45 @@
 
     <!-- Plugin JavaScript -->
     <script src="js/jquery.easing.min.js"></script>
-
-
-
-
+    <!-- Custom Theme JavaScript -->
+    <script src="js/grayscale.js"></script>
 </head>
 
 <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
-    <div id="navibar">
-    </div>
+    <!-- Navigation -->
+    <nav class="navbar navbar-custom navbar-fixed-top" role="navigation">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
+                    <i class="fa fa-bars"></i>
+                </button>
+                <a class="navbar-brand page-scroll" href="#page-top">
+                    <span class="light">James Bach</span>
+                </a>
+            </div>
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
+                <ul class="nav navbar-nav">
+                    <!-- Hidden li included to remove active class from about link when scrolled up past about section -->
+                    <li class="hidden">
+                        <a href="#page-top"></a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#about">About Me</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#portfolio">Portfolio</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#footer">Contact</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container -->
+    </nav>
+
     <header class="intro">
         <div class="intro-body">
             <div class="container">
@@ -73,7 +103,7 @@
         </div>
     </header>
 
-    <div id="about-section-1"></div>
+    <div id="about"></div>
 
     <!-- Portfolio Section -->
     <section id="portfolio" class="content-section text-center">
@@ -88,7 +118,7 @@
         </div>
     </section>
 
-    <div id="about-section-2"></div>
+    <div id="about-2"></div>
 
     <!-- Map Section -->
     <div id="map"></div>
@@ -101,13 +131,11 @@
 
 
     <script>
-                $('#navibar').load('navigation.html');
                 $('#footerbar').load('footer.html');
-                $('#about-section-1').load('about.html');
-                $('#about-section-2').load('about2.html');
+                $('#about').load('about.html');
+                $('#about-2').load('about2.html');
     </script>
-<!-- Custom Theme JavaScript -->
-    <script src="js/grayscale.js"></script>
+
 
 
 </body>
