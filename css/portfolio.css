@@ -22,7 +22,7 @@
 
 body {
     overflow-x: hidden;
-    font-family: "Gravity";
+    font-family: "Gravity" !important;
 }
 
 p {
