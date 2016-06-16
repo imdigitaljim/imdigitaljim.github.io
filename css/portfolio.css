@@ -22,6 +22,7 @@
 
 body {
     overflow-x: hidden;
+    font-family: "Gravity";
 }
 
 p {
@@ -476,4 +477,26 @@ footer .footer-below {
 .portfolio-modal .modal-backdrop {
     display: none;
     opacity: 0;
+}
+
+
+@font-face {
+    font-family: Gravity;
+    src: url("../fonts/Gravity-Regular.otf") format("opentype")
+}
+@font-face {
+    font-family: Gravity;
+    font-weight: bold;
+    src: url("../fonts/Gravity-Bold.otf") format("opentype")
+}
+@font-face {
+    font-family: Gravity;
+    font-style: italic;
+    src: url("../fonts/Gravity-Italic.otf") format("opentype")
+}
+@font-face {
+    font-family: Gravity;
+     font-weight: bold;
+    font-style: italic;
+    src: url("../fonts/Gravity-BoldItalic.otf") format("opentype")
 }
