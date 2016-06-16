@@ -1,0 +1,210 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8ACDF89B-416D-4DE3-A993-68B63AE7DA0F}"
+	ProjectSection(SolutionItems) = preProject
+		about.html = about.html
+		..\imdigitaljim.github.io\footer.html = ..\imdigitaljim.github.io\footer.html
+		..\imdigitaljim.github.io\gray.html = ..\imdigitaljim.github.io\gray.html
+		..\imdigitaljim.github.io\index.html = ..\imdigitaljim.github.io\index.html
+		intro.html = intro.html
+		..\imdigitaljim.github.io\modals.html = ..\imdigitaljim.github.io\modals.html
+		..\imdigitaljim.github.io\navigation.html = ..\imdigitaljim.github.io\navigation.html
+		Oldpage.html = Oldpage.html
+		..\imdigitaljim.github.io\portfolio.html = ..\imdigitaljim.github.io\portfolio.html
+		..\imdigitaljim.github.io\README.md = ..\imdigitaljim.github.io\README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "content", "content", "{1A9ECD87-EC1D-4ADD-BA8E-051FF28C2248}"
+	ProjectSection(SolutionItems) = preProject
+		..\imdigitaljim.github.io\content\Bach_nomination.pdf = ..\imdigitaljim.github.io\content\Bach_nomination.pdf
+		..\imdigitaljim.github.io\content\ICCC_2016_Paper_PDF_36.pdf = ..\imdigitaljim.github.io\content\ICCC_2016_Paper_PDF_36.pdf
+		..\imdigitaljim.github.io\content\Kerberos.docx = ..\imdigitaljim.github.io\content\Kerberos.docx
+		..\imdigitaljim.github.io\content\resume.pdf = ..\imdigitaljim.github.io\content\resume.pdf
+		..\imdigitaljim.github.io\content\steganography.pdf = ..\imdigitaljim.github.io\content\steganography.pdf
+		..\imdigitaljim.github.io\content\ViFlow - Interactive Augmented Reality for Dance-HD.mp4 = ..\imdigitaljim.github.io\content\ViFlow - Interactive Augmented Reality for Dance-HD.mp4
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "css", "css", "{4DC5EC4D-3325-472C-88FC-C6109F09B5EB}"
+	ProjectSection(SolutionItems) = preProject
+		..\imdigitaljim.github.io\css\index.css = ..\imdigitaljim.github.io\css\index.css
+		..\imdigitaljim.github.io\css\portfolio.css = ..\imdigitaljim.github.io\css\portfolio.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "font-awesome", "font-awesome", "{C4838A57-D12B-4CEC-8112-91C4E5BBED42}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "css", "css", "{DBA92B7A-DFFE-419D-BE4B-B099A3D69A79}"
+	ProjectSection(SolutionItems) = preProject
+		..\imdigitaljim.github.io\font-awesome\css\font-awesome.css = ..\imdigitaljim.github.io\font-awesome\css\font-awesome.css
+		..\imdigitaljim.github.io\font-awesome\css\font-awesome.min.css = ..\imdigitaljim.github.io\font-awesome\css\font-awesome.min.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "fonts", "fonts", "{CF040108-6468-42F0-B622-ABBAEA6CCB19}"
+	ProjectSection(SolutionItems) = preProject
+		..\imdigitaljim.github.io\font-awesome\fonts\fontawesome-webfont.eot = ..\imdigitaljim.github.io\font-awesome\fonts\fontawesome-webfont.eot
+		..\imdigitaljim.github.io\font-awesome\fonts\fontawesome-webfont.svg = ..\imdigitaljim.github.io\font-awesome\fonts\fontawesome-webfont.svg
+		..\imdigitaljim.github.io\font-awesome\fonts\fontawesome-webfont.ttf = ..\imdigitaljim.github.io\font-awesome\fonts\fontawesome-webfont.ttf
+		..\imdigitaljim.github.io\font-awesome\fonts\fontawesome-webfont.woff = ..\imdigitaljim.github.io\font-awesome\fonts\fontawesome-webfont.woff
+		..\imdigitaljim.github.io\font-awesome\fonts\FontAwesome.otf = ..\imdigitaljim.github.io\font-awesome\fonts\FontAwesome.otf
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "less", "less", "{D9E134A8-6944-4752-B2A2-61E78EC7C82F}"
+	ProjectSection(SolutionItems) = preProject
+		..\imdigitaljim.github.io\font-awesome\less\bordered-pulled.less = ..\imdigitaljim.github.io\font-awesome\less\bordered-pulled.less
+		..\imdigitaljim.github.io\font-awesome\less\core.less = ..\imdigitaljim.github.io\font-awesome\less\core.less
+		..\imdigitaljim.github.io\font-awesome\less\fixed-width.less = ..\imdigitaljim.github.io\font-awesome\less\fixed-width.less
+		..\imdigitaljim.github.io\font-awesome\less\font-awesome.less = ..\imdigitaljim.github.io\font-awesome\less\font-awesome.less
+		..\imdigitaljim.github.io\font-awesome\less\icons.less = ..\imdigitaljim.github.io\font-awesome\less\icons.less
+		..\imdigitaljim.github.io\font-awesome\less\larger.less = ..\imdigitaljim.github.io\font-awesome\less\larger.less
+		..\imdigitaljim.github.io\font-awesome\less\list.less = ..\imdigitaljim.github.io\font-awesome\less\list.less
+		..\imdigitaljim.github.io\font-awesome\less\mixins.less = ..\imdigitaljim.github.io\font-awesome\less\mixins.less
+		..\imdigitaljim.github.io\font-awesome\less\path.less = ..\imdigitaljim.github.io\font-awesome\less\path.less
+		..\imdigitaljim.github.io\font-awesome\less\rotated-flipped.less = ..\imdigitaljim.github.io\font-awesome\less\rotated-flipped.less
+		..\imdigitaljim.github.io\font-awesome\less\spinning.less = ..\imdigitaljim.github.io\font-awesome\less\spinning.less
+		..\imdigitaljim.github.io\font-awesome\less\stacked.less = ..\imdigitaljim.github.io\font-awesome\less\stacked.less
+		..\imdigitaljim.github.io\font-awesome\less\variables.less = ..\imdigitaljim.github.io\font-awesome\less\variables.less
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "scss", "scss", "{C87E6B51-FDD0-48D4-AFDF-3EE7DE869B91}"
+	ProjectSection(SolutionItems) = preProject
+		..\imdigitaljim.github.io\font-awesome\scss\_bordered-pulled.scss = ..\imdigitaljim.github.io\font-awesome\scss\_bordered-pulled.scss
+		..\imdigitaljim.github.io\font-awesome\scss\_core.scss = ..\imdigitaljim.github.io\font-awesome\scss\_core.scss
+		..\imdigitaljim.github.io\font-awesome\scss\_fixed-width.scss = ..\imdigitaljim.github.io\font-awesome\scss\_fixed-width.scss
+		..\imdigitaljim.github.io\font-awesome\scss\_icons.scss = ..\imdigitaljim.github.io\font-awesome\scss\_icons.scss
+		..\imdigitaljim.github.io\font-awesome\scss\_larger.scss = ..\imdigitaljim.github.io\font-awesome\scss\_larger.scss
+		..\imdigitaljim.github.io\font-awesome\scss\_list.scss = ..\imdigitaljim.github.io\font-awesome\scss\_list.scss
+		..\imdigitaljim.github.io\font-awesome\scss\_mixins.scss = ..\imdigitaljim.github.io\font-awesome\scss\_mixins.scss
+		..\imdigitaljim.github.io\font-awesome\scss\_path.scss = ..\imdigitaljim.github.io\font-awesome\scss\_path.scss
+		..\imdigitaljim.github.io\font-awesome\scss\_rotated-flipped.scss = ..\imdigitaljim.github.io\font-awesome\scss\_rotated-flipped.scss
+		..\imdigitaljim.github.io\font-awesome\scss\_spinning.scss = ..\imdigitaljim.github.io\font-awesome\scss\_spinning.scss
+		..\imdigitaljim.github.io\font-awesome\scss\_stacked.scss = ..\imdigitaljim.github.io\font-awesome\scss\_stacked.scss
+		..\imdigitaljim.github.io\font-awesome\scss\_variables.scss = ..\imdigitaljim.github.io\font-awesome\scss\_variables.scss
+		..\imdigitaljim.github.io\font-awesome\scss\font-awesome.scss = ..\imdigitaljim.github.io\font-awesome\scss\font-awesome.scss
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "fonts", "fonts", "{9FD3D34B-24C9-4F80-853F-207079209275}"
+	ProjectSection(SolutionItems) = preProject
+		..\imdigitaljim.github.io\fonts\glyphicons-halflings-regular.eot = ..\imdigitaljim.github.io\fonts\glyphicons-halflings-regular.eot
+		..\imdigitaljim.github.io\fonts\glyphicons-halflings-regular.svg = ..\imdigitaljim.github.io\fonts\glyphicons-halflings-regular.svg
+		..\imdigitaljim.github.io\fonts\glyphicons-halflings-regular.ttf = ..\imdigitaljim.github.io\fonts\glyphicons-halflings-regular.ttf
+		..\imdigitaljim.github.io\fonts\glyphicons-halflings-regular.woff = ..\imdigitaljim.github.io\fonts\glyphicons-halflings-regular.woff
+		..\imdigitaljim.github.io\fonts\glyphicons-halflings-regular.woff2 = ..\imdigitaljim.github.io\fonts\glyphicons-halflings-regular.woff2
+		..\imdigitaljim.github.io\fonts\Gravity-Bold.otf = ..\imdigitaljim.github.io\fonts\Gravity-Bold.otf
+		..\imdigitaljim.github.io\fonts\Gravity-BoldItalic.otf = ..\imdigitaljim.github.io\fonts\Gravity-BoldItalic.otf
+		..\imdigitaljim.github.io\fonts\Gravity-Book.otf = ..\imdigitaljim.github.io\fonts\Gravity-Book.otf
+		..\imdigitaljim.github.io\fonts\Gravity-BookItalic.otf = ..\imdigitaljim.github.io\fonts\Gravity-BookItalic.otf
+		..\imdigitaljim.github.io\fonts\Gravity-Italic.otf = ..\imdigitaljim.github.io\fonts\Gravity-Italic.otf
+		..\imdigitaljim.github.io\fonts\Gravity-Light.otf = ..\imdigitaljim.github.io\fonts\Gravity-Light.otf
+		..\imdigitaljim.github.io\fonts\Gravity-LightItalic.otf = ..\imdigitaljim.github.io\fonts\Gravity-LightItalic.otf
+		..\imdigitaljim.github.io\fonts\Gravity-Regular.otf = ..\imdigitaljim.github.io\fonts\Gravity-Regular.otf
+		..\imdigitaljim.github.io\fonts\Gravity-UltraLight.otf = ..\imdigitaljim.github.io\fonts\Gravity-UltraLight.otf
+		..\imdigitaljim.github.io\fonts\Gravity-UltraLightItalic.otf = ..\imdigitaljim.github.io\fonts\Gravity-UltraLightItalic.otf
+		..\imdigitaljim.github.io\fonts\Gravity_License.pdf = ..\imdigitaljim.github.io\fonts\Gravity_License.pdf
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "img", "img", "{3E25AB9E-55C1-4820-A0B0-37BB0B85D6DA}"
+	ProjectSection(SolutionItems) = preProject
+		..\imdigitaljim.github.io\img\background.png = ..\imdigitaljim.github.io\img\background.png
+		..\imdigitaljim.github.io\img\downloads-bg.jpg = ..\imdigitaljim.github.io\img\downloads-bg.jpg
+		..\imdigitaljim.github.io\img\intro-bg.jpg = ..\imdigitaljim.github.io\img\intro-bg.jpg
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "js", "js", "{AFD6F6A4-DDD7-43EE-9B8E-7484772E8D99}"
+	ProjectSection(SolutionItems) = preProject
+		..\imdigitaljim.github.io\js\grayscale.js = ..\imdigitaljim.github.io\js\grayscale.js
+		..\imdigitaljim.github.io\js\jquery.easing.min.js = ..\imdigitaljim.github.io\js\jquery.easing.min.js
+		..\imdigitaljim.github.io\js\jquery.js = ..\imdigitaljim.github.io\js\jquery.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "less", "less", "{07AC4149-81A9-433C-982B-321C6BF5CD67}"
+	ProjectSection(SolutionItems) = preProject
+		..\imdigitaljim.github.io\less\grayscale.less = ..\imdigitaljim.github.io\less\grayscale.less
+		..\imdigitaljim.github.io\less\mixins.less = ..\imdigitaljim.github.io\less\mixins.less
+		..\imdigitaljim.github.io\less\variables.less = ..\imdigitaljim.github.io\less\variables.less
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "sass", "sass", "{80F0C823-6732-4740-BE43-BABE45CD5985}"
+	ProjectSection(SolutionItems) = preProject
+		..\imdigitaljim.github.io\sass\_mixins.scss = ..\imdigitaljim.github.io\sass\_mixins.scss
+		..\imdigitaljim.github.io\sass\_variables.scss = ..\imdigitaljim.github.io\sass\_variables.scss
+		..\imdigitaljim.github.io\sass\grayscale.scss = ..\imdigitaljim.github.io\sass\grayscale.scss
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "portfolio", "portfolio", "{A2BE9BCA-2C4C-4DB7-BBEC-C39B38C1C2C6}"
+	ProjectSection(SolutionItems) = preProject
+		..\imdigitaljim.github.io\img\portfolio\dawnofadamimg.png = ..\imdigitaljim.github.io\img\portfolio\dawnofadamimg.png
+		..\imdigitaljim.github.io\img\portfolio\dawnofadamv2.png = ..\imdigitaljim.github.io\img\portfolio\dawnofadamv2.png
+		..\imdigitaljim.github.io\img\portfolio\hackgtpic.png = ..\imdigitaljim.github.io\img\portfolio\hackgtpic.png
+		..\imdigitaljim.github.io\img\portfolio\hmbpic.png = ..\imdigitaljim.github.io\img\portfolio\hmbpic.png
+		..\imdigitaljim.github.io\img\portfolio\jimislost.png = ..\imdigitaljim.github.io\img\portfolio\jimislost.png
+		..\imdigitaljim.github.io\img\portfolio\jimsadventureimg.png = ..\imdigitaljim.github.io\img\portfolio\jimsadventureimg.png
+		..\imdigitaljim.github.io\img\portfolio\ludum33-1.jpg = ..\imdigitaljim.github.io\img\portfolio\ludum33-1.jpg
+		..\imdigitaljim.github.io\img\portfolio\ludum33-2.jpg = ..\imdigitaljim.github.io\img\portfolio\ludum33-2.jpg
+		..\imdigitaljim.github.io\img\portfolio\ludum33-3.jpg = ..\imdigitaljim.github.io\img\portfolio\ludum33-3.jpg
+		..\imdigitaljim.github.io\img\portfolio\ludum33-4.jpg = ..\imdigitaljim.github.io\img\portfolio\ludum33-4.jpg
+		..\imdigitaljim.github.io\img\map-marker.png = ..\imdigitaljim.github.io\img\map-marker.png
+		..\imdigitaljim.github.io\img\portfolio\mipsassembler.png = ..\imdigitaljim.github.io\img\portfolio\mipsassembler.png
+		..\imdigitaljim.github.io\img\portfolio\mst.png = ..\imdigitaljim.github.io\img\portfolio\mst.png
+		..\imdigitaljim.github.io\img\portfolio\mst2.png = ..\imdigitaljim.github.io\img\portfolio\mst2.png
+		..\imdigitaljim.github.io\img\portfolio\mst3.png = ..\imdigitaljim.github.io\img\portfolio\mst3.png
+		..\imdigitaljim.github.io\img\portfolio\mst4.png = ..\imdigitaljim.github.io\img\portfolio\mst4.png
+		..\imdigitaljim.github.io\img\portfolio\mstmanager.png = ..\imdigitaljim.github.io\img\portfolio\mstmanager.png
+		..\imdigitaljim.github.io\img\portfolio\noisemap.png = ..\imdigitaljim.github.io\img\portfolio\noisemap.png
+		..\imdigitaljim.github.io\img\portfolio\parallaxis-basement.jpg = ..\imdigitaljim.github.io\img\portfolio\parallaxis-basement.jpg
+		..\imdigitaljim.github.io\img\portfolio\parallaxis-basement1.jpg = ..\imdigitaljim.github.io\img\portfolio\parallaxis-basement1.jpg
+		..\imdigitaljim.github.io\img\portfolio\parallaxis-cave.jpg = ..\imdigitaljim.github.io\img\portfolio\parallaxis-cave.jpg
+		..\imdigitaljim.github.io\img\portfolio\parallaxis-cityentrance.jpg = ..\imdigitaljim.github.io\img\portfolio\parallaxis-cityentrance.jpg
+		..\imdigitaljim.github.io\img\portfolio\parallaxis-dreadking.jpg = ..\imdigitaljim.github.io\img\portfolio\parallaxis-dreadking.jpg
+		..\imdigitaljim.github.io\img\portfolio\parallaxis-entrance.jpg = ..\imdigitaljim.github.io\img\portfolio\parallaxis-entrance.jpg
+		..\imdigitaljim.github.io\img\portfolio\parallaxis-hidden.jpg = ..\imdigitaljim.github.io\img\portfolio\parallaxis-hidden.jpg
+		..\imdigitaljim.github.io\img\portfolio\parallaxis-kings.jpg = ..\imdigitaljim.github.io\img\portfolio\parallaxis-kings.jpg
+		..\imdigitaljim.github.io\img\portfolio\parallaxis-summon.jpg = ..\imdigitaljim.github.io\img\portfolio\parallaxis-summon.jpg
+		..\imdigitaljim.github.io\img\portfolio\pathfindmaze-complete.png = ..\imdigitaljim.github.io\img\portfolio\pathfindmaze-complete.png
+		..\imdigitaljim.github.io\img\portfolio\projectplanning.png = ..\imdigitaljim.github.io\img\portfolio\projectplanning.png
+		..\imdigitaljim.github.io\img\portfolio\simulator.png = ..\imdigitaljim.github.io\img\portfolio\simulator.png
+		..\imdigitaljim.github.io\img\portfolio\SlideySquare512_clean.png = ..\imdigitaljim.github.io\img\portfolio\SlideySquare512_clean.png
+		..\imdigitaljim.github.io\img\portfolio\ttt.png = ..\imdigitaljim.github.io\img\portfolio\ttt.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "logo", "logo", "{A65E28D0-AA1A-499D-9ECD-51CD8B7C3550}"
+	ProjectSection(SolutionItems) = preProject
+		..\imdigitaljim.github.io\img\portfolio\acm.png = ..\imdigitaljim.github.io\img\portfolio\acm.png
+		..\imdigitaljim.github.io\img\portfolio\bbygs.png = ..\imdigitaljim.github.io\img\portfolio\bbygs.png
+		..\imdigitaljim.github.io\img\portfolio\blizz.png = ..\imdigitaljim.github.io\img\portfolio\blizz.png
+		..\imdigitaljim.github.io\img\portfolio\cyber.png = ..\imdigitaljim.github.io\img\portfolio\cyber.png
+		..\imdigitaljim.github.io\img\portfolio\fsulogo.jpg = ..\imdigitaljim.github.io\img\portfolio\fsulogo.jpg
+		..\imdigitaljim.github.io\img\portfolio\git-icon.png = ..\imdigitaljim.github.io\img\portfolio\git-icon.png
+		..\imdigitaljim.github.io\img\portfolio\header_logo.gif = ..\imdigitaljim.github.io\img\portfolio\header_logo.gif
+		..\imdigitaljim.github.io\img\portfolio\ludum.png = ..\imdigitaljim.github.io\img\portfolio\ludum.png
+		..\imdigitaljim.github.io\img\portfolio\marquislogo.png = ..\imdigitaljim.github.io\img\portfolio\marquislogo.png
+		..\imdigitaljim.github.io\img\portfolio\ms.png = ..\imdigitaljim.github.io\img\portfolio\ms.png
+		..\imdigitaljim.github.io\img\portfolio\pdf.jpeg = ..\imdigitaljim.github.io\img\portfolio\pdf.jpeg
+		..\imdigitaljim.github.io\img\portfolio\pkp_circle.jpg = ..\imdigitaljim.github.io\img\portfolio\pkp_circle.jpg
+		..\imdigitaljim.github.io\img\portfolio\tcc.jpg = ..\imdigitaljim.github.io\img\portfolio\tcc.jpg
+		..\imdigitaljim.github.io\img\portfolio\twitter.jpg = ..\imdigitaljim.github.io\img\portfolio\twitter.jpg
+		..\imdigitaljim.github.io\img\portfolio\uflogo.jpg = ..\imdigitaljim.github.io\img\portfolio\uflogo.jpg
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1A9ECD87-EC1D-4ADD-BA8E-051FF28C2248} = {8ACDF89B-416D-4DE3-A993-68B63AE7DA0F}
+		{4DC5EC4D-3325-472C-88FC-C6109F09B5EB} = {8ACDF89B-416D-4DE3-A993-68B63AE7DA0F}
+		{C4838A57-D12B-4CEC-8112-91C4E5BBED42} = {8ACDF89B-416D-4DE3-A993-68B63AE7DA0F}
+		{DBA92B7A-DFFE-419D-BE4B-B099A3D69A79} = {C4838A57-D12B-4CEC-8112-91C4E5BBED42}
+		{CF040108-6468-42F0-B622-ABBAEA6CCB19} = {C4838A57-D12B-4CEC-8112-91C4E5BBED42}
+		{D9E134A8-6944-4752-B2A2-61E78EC7C82F} = {C4838A57-D12B-4CEC-8112-91C4E5BBED42}
+		{C87E6B51-FDD0-48D4-AFDF-3EE7DE869B91} = {C4838A57-D12B-4CEC-8112-91C4E5BBED42}
+		{9FD3D34B-24C9-4F80-853F-207079209275} = {8ACDF89B-416D-4DE3-A993-68B63AE7DA0F}
+		{3E25AB9E-55C1-4820-A0B0-37BB0B85D6DA} = {8ACDF89B-416D-4DE3-A993-68B63AE7DA0F}
+		{AFD6F6A4-DDD7-43EE-9B8E-7484772E8D99} = {8ACDF89B-416D-4DE3-A993-68B63AE7DA0F}
+		{07AC4149-81A9-433C-982B-321C6BF5CD67} = {8ACDF89B-416D-4DE3-A993-68B63AE7DA0F}
+		{80F0C823-6732-4740-BE43-BABE45CD5985} = {8ACDF89B-416D-4DE3-A993-68B63AE7DA0F}
+		{A2BE9BCA-2C4C-4DB7-BBEC-C39B38C1C2C6} = {3E25AB9E-55C1-4820-A0B0-37BB0B85D6DA}
+		{A65E28D0-AA1A-499D-9ECD-51CD8B7C3550} = {3E25AB9E-55C1-4820-A0B0-37BB0B85D6DA}
+	EndGlobalSection
+EndGlobal
