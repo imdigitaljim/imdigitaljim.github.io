@@ -18,8 +18,12 @@ text-decoration: none;
 
 .panel-title {
     font-size: 3em;
-    font-family: "Gravity";
+    padding-left: 2em;
     text-align: left;
+}
+
+.panel-body {
+    font-family: "Gravity";
 }
 
 .gm-style img {
