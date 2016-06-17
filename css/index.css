@@ -38,6 +38,9 @@ text-decoration: none;
     }
 }
 
+.title-field {
+    margin-top: -2em;
+}
 
 
 .panel-title {
