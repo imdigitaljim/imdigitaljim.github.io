@@ -11,11 +11,6 @@ font-weight: 400;
 text-decoration: none;
 }
 
-.panel-heading {
-    padding-left: 0px;
-    padding-right: 0px;
-}
-
 .panel-title {
     font-size: 3em;
     font-family: "Gravity";
