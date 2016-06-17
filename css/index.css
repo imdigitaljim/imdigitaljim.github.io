@@ -22,7 +22,7 @@ text-decoration: none;
 }
 
 .panel-body {
-    font-family: "Gravity";
+
 }
 
 .gm-style img {
@@ -35,7 +35,7 @@ body {
     height: 100%;
     font-family: Lora,"Helvetica Neue",Helvetica,Arial,sans-serif;
     color: #fff;
-    background-color: #000;
+    background-color: #222222;
 }
 
 html {
