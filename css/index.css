@@ -11,6 +11,10 @@ font-weight: 400;
 text-decoration: none;
 }
 
+.vr {
+    border-right: 1px #EEEEEE solid;
+}
+
 .listfield {
     margin-top: -2em;
     padding-bottom: 3em;
