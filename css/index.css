@@ -49,6 +49,9 @@ text-decoration: none;
     }
 }
 
+.indentheading {
+    padding-left: 3em;
+}
 
 
 .panel-title {
