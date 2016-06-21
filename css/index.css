@@ -12,7 +12,7 @@ text-decoration: none;
 }
 
 .panel-heading {
-    border-bottom: 1px #000000 solid;
+    border-bottom: 1px #000000 solid !important;
 }
 .vr {
     border-right: 1px #EEEEEE solid;
