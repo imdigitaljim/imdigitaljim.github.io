@@ -197,10 +197,6 @@ a:focus {
     }
 }
 
-.background {
-        background: url(../img/background.png) no-repeat bottom center scroll;
-     background-repeat: repeat-y;
-}
 
 .intro {
     display: table;
