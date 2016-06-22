@@ -477,7 +477,7 @@ img::-moz-selection {
 .fontfix {
     font-family: "Georgia" !important;
 }
-.modal {
+.modal-content {
     background-color: #00030c !important;
     color: white;
 }
