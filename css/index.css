@@ -478,7 +478,8 @@ img::-moz-selection {
     font-family: "Georgia" !important;
 }
 .modal {
-    color: black;
+    background-color: #00030c !important;
+    color: white;
 }
 
 
