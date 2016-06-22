@@ -50,6 +50,9 @@
     border-right: 1px #EEEEEE solid;
 }
 
+.panel-body {
+    color: black !important;
+}
 
 .newfield {
     padding-left: 5em;
