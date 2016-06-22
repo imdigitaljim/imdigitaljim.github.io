@@ -56,6 +56,11 @@ text-decoration: none;
     padding-left: 3em;
 }
 
+.subfield {
+    margin-top: -5em;
+    padding-left: 4.6em;
+    font-size: 1.3em;
+}
 
 .panel-title {
     font-size: 3em;
