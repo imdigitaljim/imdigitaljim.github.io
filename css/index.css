@@ -479,10 +479,6 @@ img::-moz-selection {
 }
 .modal {
     color: black;
-    top: 10%;
-    right: 30%;
-    left: 30%;
-    bottom: 10%;
 }
 
 
@@ -491,7 +487,6 @@ img::-moz-selection {
 
 
 .portfolio-modal .modal-content {
-    padding: 100px 0;
     min-height: 100%;
     border: 0;
     border-radius: 0;
