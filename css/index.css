@@ -439,4 +439,6 @@ img::-moz-selection {
     background: 0 0;
 }
 
-
+.fontfix {
+    font-family: "Georgia";
+}
