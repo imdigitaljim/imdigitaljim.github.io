@@ -440,5 +440,5 @@ img::-moz-selection {
 }
 
 .fontfix {
-    font-family: "Georgia";
+    font-family: "Georgia" !important;
 }
