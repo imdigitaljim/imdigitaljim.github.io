@@ -477,7 +477,13 @@ img::-moz-selection {
 .fontfix {
     font-family: "Georgia" !important;
 }
-
+.modal {
+    color: black;
+    top: 10%;
+    right: 30%;
+    left: 30%;
+    bottom: 10%;
+}
 
 
 
