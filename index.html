@@ -54,40 +54,8 @@
 </head>
 
 <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
-
-    <!-- Navigation -->
-    <nav class="navbar navbar-custom navbar-fixed-top" role="navigation">
-        <div class="container">
-            <div class="navbar-header">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
-                    <i class="fa fa-bars"></i>
-                </button>
-                <a class="navbar-brand page-scroll" href="#page-top">
-                    <span class="light">James Bach</span>
-                </a>
-            </div>
-            <!-- Collect the nav links, forms, and other content for toggling -->
-            <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
-                <ul class="nav navbar-nav">
-                    <!-- Hidden li included to remove active class from about link when scrolled up past about section -->
-                    <li class="hidden">
-                        <a href="#page-top"></a>
-                    </li>
-                    <li>
-                        <a class="page-scroll" href="#about">About Me</a>
-                    </li>
-                    <li>
-                        <a class="page-scroll" href="#portfolio">Portfolio</a>
-                    </li>
-                    <li>
-                        <a class="page-scroll" href="#footerbar">Contact</a>
-                    </li>
-                </ul>
-            </div>
-            <!-- /.navbar-collapse -->
-        </div>
-        <!-- /.container -->
-    </nav>
+<div id="navibar"></div>
+    
 
 <header class="intro">
         <div class="intro-body">
@@ -108,33 +76,31 @@
     <div style="padding-top: 4em;" id="about"></div>
 
     <!-- Portfolio Section -->
-    <section id="portfolio" class="content-section text-center" style="border-top: 1px white solid; border-bottom: 1px white solid; margin-bottom: 2em;">
-        <div class="download-section">
-            <div class="container">
-                <div class="col-lg-8 col-lg-offset-2">
-                    <h2>View My Portfolio</h2>
-                    <p>This page shows academic, hobby, entrepreneurial, and industry-related work.</p>
-                    <a href="../portfolio.html" class="btn btn-default btn-lg">Visit Portfolio Page</a>
-                </div>
+<section id="portfolio" class="content-section text-center" style="border-top: 1px white solid; border-bottom: 1px white solid; margin-bottom: 2em;">
+    <div class="download-section">
+        <div class="container">
+            <div class="col-lg-8 col-lg-offset-2">
+                <h2>View My Portfolio</h2>
+                <p>This page shows academic, hobby, entrepreneurial, and industry-related work.</p>
+                <a href="../portfolio.html" class="btn btn-default btn-lg">Visit Portfolio Page</a>
             </div>
         </div>
-    </section>
+    </div>
+</section>
 
-    <div id="about-2"></div>
+<div id="about-2"></div>
 
-    <!-- Footer -->
-    <div id="footerbar"></div>
+<!-- Footer -->
+<div id="footerbar"></div>
 
 <script>
+    $('#navibar').load('navigation.html');
     $('#footerbar').load('footer.html');
     $('#about').load('about.html');
     $('#about-2').load('about2.html');
 </script>
 
-    <!-- Plugin JavaScript -->
-    <script src="js/jquery.easing.min.js"></script>
-    <!-- Custom Theme JavaScript -->
-    <script src="js/grayscale.js"></script>
+
 
 </body>
 

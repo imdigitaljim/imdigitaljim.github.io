@@ -49,39 +49,8 @@
 
 </head>
 <body id="page-top" class="index">
-    <!-- Navigation -->
-    <nav class="navbar navbar-custom navbar-fixed-top" role="navigation">
-        <div class="container">
-            <div class="navbar-header">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
-                    <i class="fa fa-bars"></i>
-                </button>
-                <a class="navbar-brand page-scroll" href="#page-top">
-                    <span class="light">James Bach</span>
-                </a>
-            </div>
-            <!-- Collect the nav links, forms, and other content for toggling -->
-            <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
-                <ul class="nav navbar-nav">
-                    <!-- Hidden li included to remove active class from about link when scrolled up past about section -->
-                    <li class="hidden">
-                        <a href="#page-top"></a>
-                    </li>
-                    <li>
-                        <a class="page-scroll" href="#about">About Me</a>
-                    </li>
-                    <li>
-                        <a class="page-scroll" href="#portfolio">Portfolio</a>
-                    </li>
-                    <li>
-                        <a class="page-scroll" href="#footerbar">Contact</a>
-                    </li>
-                </ul>
-            </div>
-            <!-- /.navbar-collapse -->
-        </div>
-        <!-- /.container -->
-    </nav>
+    <div id="navibar"></div>
+
     <!-- Portfolio Grid Section -->
     <section id="portfolio" style="margin-top: 2em;">
         <div class="container">
@@ -198,7 +167,7 @@
 
 
 
-            <div class="row" style="padding-top:2em;">
+            <div class="row" style="padding-top: 2em;">
                 <div class="col-lg-12 text-left">
                     <h2>Project Development</h2>
                     <hr />
@@ -221,7 +190,7 @@
                             <a href="http://www.computationalcreativity.net/iccc2016/">Seventh International Conference on Computational Creativity</a>.
                             <iframe width="560" height="315" src="https://www.youtube.com/embed/-lHECVWNWSE" frameborder="0" allowfullscreen></iframe>
                         </li>
-                        <li style="padding-top:1em;">
+                        <li style="padding-top: 1em;">
                             <a href="https://github.com/imdigitaljim/School_Code/tree/master/Computation%20Creativity">
                                 <img height="25" width="25" src="img/logo/git-icon.png" class="git-icon">
                             </a>
@@ -231,7 +200,7 @@
                             Amazon Web Service EC2 instance of Microsoft Windows Server 2012
                             <a href="https://twitter.com/digitaljimbot"><img width="25" height="25" src="img/logo/twitter.jpg" /></a>
                         </li>
-                        <li style="padding-top:1em;">
+                        <li style="padding-top: 1em;">
                             <a href="https://github.com/imdigitaljim/School_Code/tree/master/Algorithms/Clustering">
                                 <img height="25" width="25" src="img/logo/git-icon.png" class="git-icon">
                             </a><strong> K-Means Clustering: </strong><em>December 2015 -</em> A class project to demonstrate understanding of k-means and complete linkage clustering.
@@ -246,7 +215,7 @@
                             </a>
                             <strong> Network Simulator: </strong><em>March 2016 -</em> A class project to simulate a network topology, emulating network and mac layers and the ARP protocol.
                         </li>
-                        <li style="padding-top:1em;">
+                        <li style="padding-top: 1em;">
                             <a href="https://github.com/imdigitaljim/HighEntropyStegoMax">
                                 <img height="25" width="25" src="img/logo/git-icon.png" class="git-icon">
                             </a>
@@ -255,13 +224,13 @@
                             <a href="content/steganography.pdf"><img height="25" width="25" src="img/portfolio/pdf.jpeg" class="git-icon"></a>
                             <iframe width="560" height="315" src="https://www.youtube.com/embed/TLzsfvBW6Uo" frameborder="0" allowfullscreen></iframe>
                         </li>
-                        <li style="padding-top:1em;">
+                        <li style="padding-top: 1em;">
                             <a href="">
                                 <img height="25" width="25" src="img/logo/git-icon.png" class="git-icon">
                             </a><strong> Chat Application: </strong>
                             <em>February 2016 -</em> A class project to develop a client/server model chat server application to provide a broadcasting group chat service.
                         </li>
-                        <li style="padding-top:1em;">
+                        <li style="padding-top: 1em;">
                             <a href="https://github.com/imdigitaljim/School_Code/tree/master/Operating%20Systems/FileSystem">
                                 <img height="25" width="25" src="img/logo/git-icon.png" class="git-icon">
                             </a>
@@ -378,6 +347,7 @@
     <div id="footerbar"></div>
     <div id="modalsection"></div>
     <script>
+        $('#navibar').load('navigation.html');
         $('#footerbar').load('footer.html');
         $('#modalsection').load('modals.html');
     </script>
