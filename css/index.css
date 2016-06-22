@@ -25,7 +25,6 @@ text-decoration: none;
 
 .newfield {
     padding-left: 5em;
-    padding-bottom: 2em;
 }
 .indentrow {
     padding-left: 4em;
@@ -57,7 +56,7 @@ text-decoration: none;
 }
 
 .subfield {
-    margin-top: -5em;
+    margin-top: -4em;
     padding-left: 4.6em;
     font-size: 1.3em;
 }
