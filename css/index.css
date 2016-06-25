@@ -609,7 +609,10 @@ img::-moz-selection {
 }
 
 
-.logo100 {
+.logo100-100 {
     transform: translateX(-40%);
-     max-width: 100px;
+    max-width: 100px;
+}
+.logo200-100 {
+    max-width: 200px;
 }
