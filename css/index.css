@@ -607,3 +607,9 @@ img::-moz-selection {
         margin: 0 0 30px;
     }
 }
+
+
+.logo100 {
+    transform: translateX(-40%);
+     max-width: 100px;
+}
