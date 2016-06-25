@@ -75,7 +75,6 @@
 }
 
 .listfield {
-    padding-left: 5em;
     padding-bottom: 2em;
     font-size: 1.3em;
     text-align: left;
@@ -96,6 +95,18 @@
         display: none;
     }
 }
+
+@media screen and (min-width: 992px) {
+    .indent-mf{
+        padding-left: 5.8em;
+    }
+}
+@media screen and (min-width: 992px) {
+    .listfield{
+        padding-left: 5em;
+    }
+}
+
 
 .indentheading {
     padding-left: 3em;
