@@ -612,7 +612,12 @@ img::-moz-selection {
 .logo100-100 {
     transform: translateX(-40%);
     max-width: 100px;
+    margin-right: -.25em;
 }
 .logo200-100 {
     max-width: 200px;
+}
+
+.projectlist {
+    font-size: 1.3em;
 }
