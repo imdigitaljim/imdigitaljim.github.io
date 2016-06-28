@@ -54,24 +54,12 @@
     color: black !important;
 }
 
-.newfield {
-    padding-left: 5em;
-}
-
 .projectheader {
     margin-top: 2em;
 }
 
 .indentrow {
     padding-left: 4em;
-}
-
-@media screen and (min-width: 992px) {
-    .panel-override {
-        margin-left: 5em;
-        padding-left: 0px;
-        padding-right: 0px;
-    }
 }
 
 .listfield {
@@ -94,27 +82,49 @@
         visibility: hidden;
         display: none;
     }
+        .fontfix {
+        padding-left: 1em;
+    }
+    .video-mobile-off {
+        visibility: hidden;
+        display: none;
+    }
+
 }
 
 @media screen and (min-width: 992px) {
     .indent-mf{
         padding-left: 5.8em;
     }
-}
-@media screen and (min-width: 992px) {
-    .listfield{
+        .listfield{
         padding-left: 5em;
         padding-top: 1em;
+    }
+            .newfield {
+        padding-left: 5em;
+    }
+    .subfield {
+            padding-left: 4.6em;
+    }
+    .indentheading {
+        padding-left: 3em;
+    }
+    .panel-override {
+        margin-left: 5em;
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+        .video-mobile-on {
+        visibility: hidden;
+        display: none;
     }
 }
 
 
-.indentheading {
-    padding-left: 3em;
-}
+
 
 .subfield {
-    padding-left: 4.6em;
+
     font-size: 1.3em;
 }
 
