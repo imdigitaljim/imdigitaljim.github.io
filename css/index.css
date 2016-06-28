@@ -89,6 +89,10 @@
         visibility: hidden;
         display: none;
     }
+    .row {
+        margin-right: 0px !important;
+        margin-left: 0px !important;
+    }
 
 }
 
@@ -117,8 +121,6 @@
     }
     .panel-override {
         margin-left: 5em;
-        padding-left: 0px;
-        padding-right: 0px;
     }
         .video-mobile-on {
         visibility: hidden;
