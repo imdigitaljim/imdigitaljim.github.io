@@ -105,6 +105,13 @@
     padding-right: 0px;
 }
 
+@media screen and (min-width: 1850px) {
+    .video-dropdown {
+        display: none;
+        visibility: hidden;
+    }
+}
+
 @media screen and (min-width: 992px) {
     .indent-mf {
         padding-left: 5.8em;
