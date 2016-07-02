@@ -4,9 +4,10 @@
     text-align: center;
 }
 
-.git-icon{
+.git-icon {
     cursor: pointer;
 }
+
 .gm-style-pbt {
     font-size: 22px;
     color: white;
@@ -82,18 +83,20 @@
         visibility: hidden;
         display: none;
     }
-        .fontfix {
+
+    .fontfix {
         padding-left: 1em;
     }
-    .video-mobile-off {
+
+    .mobile-off {
         visibility: hidden;
         display: none;
     }
+
     .row {
         margin-right: 0px !important;
         margin-left: 0px !important;
     }
-
 }
 
 
@@ -103,26 +106,32 @@
 }
 
 @media screen and (min-width: 992px) {
-    .indent-mf{
+    .indent-mf {
         padding-left: 5.8em;
     }
-        .listfield{
+
+    .listfield {
         padding-left: 5em;
         padding-top: 1em;
     }
-            .newfield {
+
+    .newfield {
         padding-left: 5em;
     }
+
     .subfield {
-            padding-left: 4.6em;
+        padding-left: 4.6em;
     }
+
     .indentheading {
         padding-left: 3em;
     }
+
     .panel-override {
         margin-left: 5em;
     }
-        .video-mobile-on {
+
+    .mobile-on {
         visibility: hidden;
         display: none;
     }
@@ -132,7 +141,6 @@
 
 
 .subfield {
-
     font-size: 1.3em;
 }
 
@@ -512,6 +520,7 @@ img::-moz-selection {
 .fontfix {
     font-family: "Georgia" !important;
 }
+
 .modal-content {
     background-color: #00030c !important;
     color: white;
@@ -532,19 +541,19 @@ img::-moz-selection {
     box-shadow: none;
 }
 
-.portfolio-modal .modal-content h2 {
-    margin: 0;
-    font-size: 3em;
-}
+    .portfolio-modal .modal-content h2 {
+        margin: 0;
+        font-size: 3em;
+    }
 
-.portfolio-modal .modal-content img {
-    margin-bottom: 30px;
-}
+    .portfolio-modal .modal-content img {
+        margin-bottom: 30px;
+    }
 
-.portfolio-modal .modal-content .item-details {
-    margin: 30px 0;
-    font-size: 1.2em;
-}
+    .portfolio-modal .modal-content .item-details {
+        margin: 30px 0;
+        font-size: 1.2em;
+    }
 
 .portfolio-modal .close-modal {
     position: absolute;
@@ -556,30 +565,30 @@ img::-moz-selection {
     cursor: pointer;
 }
 
-.portfolio-modal .close-modal:hover {
-    opacity: .3;
-}
+    .portfolio-modal .close-modal:hover {
+        opacity: .3;
+    }
 
-.portfolio-modal .close-modal .lr {
-    z-index: 1051;
-    width: 1px;
-    height: 75px;
-    margin-left: 35px;
-    background-color: #2c3e50;
-    -webkit-transform: rotate(45deg);
-    -ms-transform: rotate(45deg);
-    transform: rotate(45deg);
-}
+    .portfolio-modal .close-modal .lr {
+        z-index: 1051;
+        width: 1px;
+        height: 75px;
+        margin-left: 35px;
+        background-color: #2c3e50;
+        -webkit-transform: rotate(45deg);
+        -ms-transform: rotate(45deg);
+        transform: rotate(45deg);
+    }
 
-.portfolio-modal .close-modal .lr .rl {
-    z-index: 1052;
-    width: 1px;
-    height: 75px;
-    background-color: #2c3e50;
-    -webkit-transform: rotate(90deg);
-    -ms-transform: rotate(90deg);
-    transform: rotate(90deg);
-}
+        .portfolio-modal .close-modal .lr .rl {
+            z-index: 1052;
+            width: 1px;
+            height: 75px;
+            background-color: #2c3e50;
+            -webkit-transform: rotate(90deg);
+            -ms-transform: rotate(90deg);
+            transform: rotate(90deg);
+        }
 
 .portfolio-modal .modal-backdrop {
     display: none;
@@ -591,47 +600,47 @@ img::-moz-selection {
     margin: 0 0 15px;
 }
 
-#portfolio .portfolio-item .portfolio-link {
-    display: block;
-    position: relative;
-    margin: 0 auto;
-    max-width: 400px;
-}
+    #portfolio .portfolio-item .portfolio-link {
+        display: block;
+        position: relative;
+        margin: 0 auto;
+        max-width: 400px;
+    }
 
-#portfolio .portfolio-item .portfolio-link .caption {
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    opacity: 0;
-    background: rgba(24,188,156,.9);
-    -webkit-transition: all ease .5s;
-    -moz-transition: all ease .5s;
-    transition: all ease .5s;
-}
+        #portfolio .portfolio-item .portfolio-link .caption {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            opacity: 0;
+            background: rgba(24,188,156,.9);
+            -webkit-transition: all ease .5s;
+            -moz-transition: all ease .5s;
+            transition: all ease .5s;
+        }
 
-#portfolio .portfolio-item .portfolio-link .caption:hover {
-    opacity: 1;
-}
+            #portfolio .portfolio-item .portfolio-link .caption:hover {
+                opacity: 1;
+            }
 
-#portfolio .portfolio-item .portfolio-link .caption .caption-content {
-    position: absolute;
-    top: 50%;
-    width: 100%;
-    height: 20px;
-    margin-top: -12px;
-    text-align: center;
-    font-size: 20px;
-    color: #fff;
-}
+            #portfolio .portfolio-item .portfolio-link .caption .caption-content {
+                position: absolute;
+                top: 50%;
+                width: 100%;
+                height: 20px;
+                margin-top: -12px;
+                text-align: center;
+                font-size: 20px;
+                color: #fff;
+            }
 
-#portfolio .portfolio-item .portfolio-link .caption .caption-content i {
-    margin-top: -12px;
-}
+                #portfolio .portfolio-item .portfolio-link .caption .caption-content i {
+                    margin-top: -12px;
+                }
 
-#portfolio .portfolio-item .portfolio-link .caption .caption-content h3,
-#portfolio .portfolio-item .portfolio-link .caption .caption-content h4 {
-    margin: 0;
-}
+                #portfolio .portfolio-item .portfolio-link .caption .caption-content h3,
+                #portfolio .portfolio-item .portfolio-link .caption .caption-content h4 {
+                    margin: 0;
+                }
 
 #portfolio * {
     z-index: 2;
@@ -649,6 +658,7 @@ img::-moz-selection {
     max-width: 100px;
     margin-right: -.25em;
 }
+
 .logo200-100 {
     max-width: 200px;
 }
