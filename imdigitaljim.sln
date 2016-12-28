@@ -112,6 +112,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "img", "img", "{3E25AB9E-55C
 		img\background.png = img\background.png
 		img\downloads-bg.jpg = img\downloads-bg.jpg
 		img\intro-bg.jpg = img\intro-bg.jpg
+		..\..\Downloads\pretty-background.jpeg = ..\..\Downloads\pretty-background.jpeg
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "js", "js", "{AFD6F6A4-DDD7-43EE-9B8E-7484772E8D99}"
