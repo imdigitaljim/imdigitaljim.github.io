@@ -298,7 +298,9 @@ a {
         }
 }
 
-
+.shadow-emphasize{
+    text-shadow: 1em, 1em, black !important;
+}
 .intro {
     display: table;
     width: 100%;
