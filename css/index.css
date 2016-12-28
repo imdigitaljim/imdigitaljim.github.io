@@ -299,7 +299,7 @@ a {
 }
 
 .shadow-emphasize{
-    text-shadow: 1em, 1em, black !important;
+    text-shadow: 1px 1px black !important;
 }
 .intro {
     display: table;
