@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.7
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8ACDF89B-416D-4DE3-A993-68B63AE7DA0F}"
 	ProjectSection(SolutionItems) = preProject
@@ -177,6 +177,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "logo", "logo", "{A65E28D0-A
 		img\portfolio\acm.png = img\portfolio\acm.png
 		img\portfolio\bbygs.png = img\portfolio\bbygs.png
 		img\portfolio\blizz.png = img\portfolio\blizz.png
+		img\logo\chalmerslogo.png = img\logo\chalmerslogo.png
 		img\portfolio\cyber.png = img\portfolio\cyber.png
 		img\portfolio\fsulogo.jpg = img\portfolio\fsulogo.jpg
 		img\portfolio\git-icon.png = img\portfolio\git-icon.png
